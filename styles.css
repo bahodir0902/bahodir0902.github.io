@@ -1,0 +1,22 @@
+html {
+    font-size: 18.5px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Verdana", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+}
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: orangered;
+}
+h3{
+    color: orange;
+}
+
+p {
+    color: black;
+
+}
+font-family{
+
+}
